@@ -24,10 +24,10 @@ export default function Header() {
         </nav>
 
         <div className="flex items-center gap-5">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/DanDreev1" target="_blank" rel="noopener noreferrer">
             <Github className="w-10 h-10 2xl:w-12 2xl:h-12 hover:scale-110 transition" />
           </a>
-          <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/daniil_andrieiev?igsh=MTN5NDN3eTVsZjF6dw==" target="_blank" rel="noopener noreferrer">
             <Instagram className="w-10 h-10 2xl:w-12 2xl:h-12 hover:scale-110 transition text-[#e1306c]" />
           </a>
         </div>
