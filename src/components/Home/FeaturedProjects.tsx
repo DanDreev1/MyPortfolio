@@ -75,7 +75,7 @@ export const FeaturedProjects = () => {
                 </div>
 
                 <Link
-                    href="/contact"
+                    href="/Contact"
                     className="w-40 mt-5 py-4 rounded-xl font-semibold text-white text-center"
                     style={{
                         background: 'linear-gradient(to right, #0ea5e9, #6366f1)',

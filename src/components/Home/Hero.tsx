@@ -13,7 +13,7 @@ export default function Hero() {
     >
       <div>
         <h1 className="text-5xl font-black mb-10 sm:mb-15 md:mb-20">DANIIL ANDRIEIEV</h1>
-        <p className="mt-4 text-3xl font-extrabold mb-5">Frontend Developer</p>
+        <p className="mt-4 text-3xl font-extrabold mb-5">FullStack Developer</p>
         <p className="text-xl">Digital Portfolio</p>
       </div>
       <div className="relative w-72 md:w-96 h-[400px] md:h-[400px] mt-10 md:mt-0">

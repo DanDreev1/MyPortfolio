@@ -24,7 +24,7 @@ export const Footer = () => {
           transition={{ duration: 0.5 }}
         >
           <Link
-            href="/contact"
+            href="/Contact"
             className="text-white text-xl 2xl:text-2xl px-8 py-4 rounded-xl font-semibold transition shadow-md"
             style={{
               background: 'linear-gradient(to right, #0ea5e9, #6366f1)', // тот самый градиент из лого
